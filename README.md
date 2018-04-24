@@ -173,7 +173,7 @@ A - “不能说...”
 人力资源部将以实习生考勤系统中的出勤数据为准，计发实习生的实习补贴，请各位实习生出勤务必系统考勤签到。如出勤当日忘记考勤，事后请及时补出勤，上级审批通过后生效。
 
 ### 签到
-在 [holiday.oa.com/v2](holiday.oa.com/v2) 上会有签到,如果某天忘记签到了,可以申请补签,需要 leader 的 审批。另外,每天 OA-ADMIN 都会有邮件提醒签到,可通过邮件内的按钮进入签到网页。周末无法签到。最后的薪资应该是根据这个签到发放。
+在 [holiday.oa.com/v2](http://holiday.oa.com/v2) 上会有签到,如果某天忘记签到了,可以申请补签,需要 leader 的 审批。另外,每天 OA-ADMIN 都会有邮件提醒签到,可通过邮件内的按钮进入签到网页。周末无法签到。最后的薪资应该是根据这个签到发放。
 
 ### 请假
 实习生、毕业生因特殊情况需请假：  
@@ -187,7 +187,7 @@ A - “不能说...”
 
 同时可以选择微信关注“行政助手”(xingzhengzhushou)公众号,在“行政助手”里面有饭卡充值；
 
-还可以登录网址 [fanka.tenpay.com](fanka.tenpay.com)(需内网)进行充值,这两个充值后,余额不会立即改变,需要到各餐厅附近的机器刷卡(也是领取夜宵券的机器)才会改变余额。
+还可以登录网址 [fanka.tenpay.com](http://fanka.tenpay.com)(需内网)进行充值,这两个充值后,余额不会立即改变,需要到各餐厅附近的机器刷卡(也是领取夜宵券的机器)才会改变余额。
 
 周末食堂开发情况：腾大 12 楼会开放，万利达 2 楼也会开放。
 
@@ -203,7 +203,7 @@ A - “不能说...”
 ### 班车
 刚来的前一两天，班车有时无法刷卡，可能 8000 那边没有弄好权限,可以和司机说一声刚入职即可。
 #### 班车查询
-* 第一种上 [banche.oa.com](banche.oa.com) 根据站名一般为公交车站名字查找班车线路;
+* 第一种上 [banche.oa.com](http://banche.oa.com) 根据站名一般为公交车站名字查找班车线路;
 * 第二种上[tencent-bus_query](http://techirdliu-pc0.tencent.com:8080/bus_query/index.html)，会有地图显示所有的班车,找到自己住址附近的班车,放大地图即可。
 
 #### 班车地点
@@ -227,7 +227,7 @@ A - “不能说...”
 * 和办公相关
 * 发票
 
-首先上 [cost.oa.com] 按要求填写申请表格(如何填写表格以及后续的贴发票等等都可以在 cost.oa.com 右下角的“热点文章”一栏查看)，填写完成后打印(如何打印或者 cost.oa.com 没有权限,可在本文自行搜索)。然后按照“报销票据粘贴模板”粘贴发票并送到秘书处即可。
+首先上 [cost.oa.com](http://cost.oa.com) 按要求填写申请表格(如何填写表格以及后续的贴发票等等都可以在 [cost.oa.com](http://cost.oa.com) 右下角的“热点文章”一栏查看)，填写完成后打印(如何打印或者 [cost.oa.com](http://cost.oa.com) 没有权限,可在本文自行搜索)。然后按照“报销票据粘贴模板”粘贴发票并送到秘书处即可。
 
 ### 福利
 
@@ -250,15 +250,15 @@ A - “不能说...”
 如果从深圳湾过关,则可以坐公交 B2P 到天水围或者公 交 B3、B3X 到屯门(屯门有屯门市中心广场,可购物),这两个地方都可以坐地铁;如果从 罗湖或者福田过关,则过关后会直接看到地铁站,分别为罗湖和落马洲站。
 
 ### 常用网站
-* [km.oa.com](km.oa.com) ：会有很多人分享文章,也可以在这儿加入各种兴趣社团等等。
-* [bbs.oa.com](bbs.oa.com) ：内部论坛,有跳骚市场、交友聚会等等。 
-* [banche.oa.com](banche.oa.com)：查询班车信息 
-* [fanka.tenpay.com](fanka.tenpay.com) ：充值饭卡 
-* [office.oa.com](office.oa.com) :各种权限申请
-* [epo.oa.com](epo.oa.com) :买买买!
-* [cost.oa.com](cost.oa.com) :报销
-* [8000.oa.com](8000.oa.com) :腾讯专属 IT 支持,8000 知识库能帮你解决大部分电脑问题。 
-* [holiday.oa.com/v2](holiday.oa.com/v2) :实习生签到
+* [km.oa.com](http://km.oa.com) ：会有很多人分享文章,也可以在这儿加入各种兴趣社团等等。
+* [bbs.oa.com](http://bbs.oa.com) ：内部论坛,有跳骚市场、交友聚会等等。 
+* [banche.oa.com](http://banche.oa.com)：查询班车信息 
+* [fanka.tenpay.com](http://fanka.tenpay.com) ：充值饭卡 
+* [office.oa.com](http://office.oa.com) :各种权限申请
+* [epo.oa.com](http://epo.oa.com) :买买买!
+* [cost.oa.com](http://cost.oa.com) :报销
+* [8000.oa.com](http://8000.oa.com) :腾讯专属 IT 支持,8000 知识库能帮你解决大部分电脑问题。 
+* [holiday.oa.com/v2](http://holiday.oa.com/v2) :实习生签到
 
 ### 其他 Q & A   
 Q - 电脑出故障了,怎么办?    
@@ -269,7 +269,7 @@ A - 按照步骤申请即可,一般都会通过。Office.oa.com 进行申请。�
 Q - 如何更换 RTX 头像?    
 A - [http://office.oa.com/default.aspx](http://office.oa.com/default.aspx) 行政流程-21 个性照申请；
 
-Q - RTX/MOA/RDM/TAPD 手机版在哪儿可以下载?    A - [http://im.oa.com/](http://im.oa.com/) 或者 去 [rdm.oa.com](rdm.oa.com) 下载 rdm,里面有很多必用的办公软件,包括 MOA, RTX,TAPD 等等
+Q - RTX/MOA/RDM/TAPD 手机版在哪儿可以下载?    A - [http://im.oa.com/](http://im.oa.com/) 或者 去 [rdm.oa.com](http://rdm.oa.com) 下载 rdm,里面有很多必用的办公软件,包括 MOA, RTX,TAPD 等等
 Q - wifi 密码是多少?   A - Guest-Wifi:每周一换,可在 [http://km.oa.com/group/22089](http://km.oa.com/group/22089) 获取。Staff-Wifi:可直接连接,连接上后,输入自己的英文名和密码即可。
 Q - 无法使用网易云音乐,百度网盘等产品?     
 A - 公司并未禁止使用竞品,只是这些软件都需要设置网络代理,如网易云音乐,则需要在 设置->工具一栏,选择“使用 IE 代理设置”,并确认在 IE 当中设置了代理:工具->Internet 选项->连接->局域网设置->自动配置,在自动配置里面勾选“自动配置”和“使用自动配置脚本”, 如果脚本地址里面为空,则可以填写 [proxy.pac](http://txp-01.tencent.com/proxy.pac),其他软件都可以在 设置当中勾选使用 IE 代理。
