@@ -147,7 +147,7 @@ A - “不同部门都不一样，具体根据导师指引来”
 * TST计划(Top student talent)面试。
 
 #### PIN+token
-入职当天,会发放一个“QQ 令牌”。需要先使用英文名和 outlook 密码登录 [token.oa.com] (http://token.oa.com)(如无权限,可座机电话 8000)。
+入职当天,会发放一个“QQ 令牌”。需要先使用英文名和 outlook 密码登录[token.oa.com](http://token.oa.com)（如无权限,可座机电话 8000）。
 然后在绑定页面,输入令牌上的序列号 SN,然后设置六位 PIN 码并输入 token code,即可开卡。
 
 以后再需要输入 PIN+token 密码时,输入自己设置的 PIN 码和令牌上的动态 token code 即可。令牌上数字前面的几条横杠代表密码的有效时间, 三个则为刚生成,一个则为快失效。
